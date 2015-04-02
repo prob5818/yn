@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 bra  bbbb
 
 commit master b1
 
+=======
+commit master b1
+>>>>>>> 93c93bc2a21016ed434a8e8a06577320ccc25eaf
